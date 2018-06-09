@@ -1,0 +1,10 @@
+{
+  "name": "gitme",
+  "version": "0.0.1",
+  "scripts": {
+    "release":"node ./scripts/release.js"
+  },
+  "dependencies": {
+    
+  }
+}

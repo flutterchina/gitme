@@ -1,0 +1,14 @@
+{
+  "android":{
+    "version":"0.1.0",
+    "url":"",
+    "storeUrl":"",
+    "force":false
+  },
+  "ios":{
+    "version":"0.1.0",
+    "url":"itms-apps://itunes.apple.com/app/id477927812",
+    "force":false
+  },
+  "description":"更新了一些bug"
+}
