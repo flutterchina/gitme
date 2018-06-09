@@ -1,10 +1,12 @@
 {
   "android":{
    "version":"1.0",
-   "url":"",
+   "url":"https://static.hfax.com/appdownload/app-HJS-release.apk",
+    "force":true
   },
   "ios":{
    "version":"2.0",
+   "force":true 
   },
   "description":"xxxxx"
 }
