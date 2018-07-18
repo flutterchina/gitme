@@ -18,31 +18,17 @@
   {
     "title": "Vue",
     "des": "用于构建用户界面的易用、灵活、高效的渐进式JavaScript框架。github star数超10W+.",
-    "style": {
-      "bold": true,
-      "height": 0.8
-    },
     "img": "https://vuejs.org/images/logo.png",
     "url": "https://github.com/vuejs/vue",
     "tag": [
       "Weex",
       "JavaScript"
     ],
-    "nav": {
-      "color": "0xffffff",
-      "show": false,
-      "tool": true
-    },
     "time": "2018-06-28T07:55:57.178Z"
   },
   {
     "title": "Flutter",
     "des": "Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。",
-    "style": {
-      "bold": true,
-      "color": "0x0000ff",
-      "height": 0.8
-    },
     "img": "https://avatars0.githubusercontent.com/u/38549573?s=200&v=4",
     "url": "https://github.com/flutter/flutter",
     "tag": [
@@ -50,12 +36,7 @@
       "IOS",
       "Dart"
     ],
-    "nav": {
-      "color": "0xffffff",
-      "show": false,
-      "tool": true
-    },
-    "time": "2018-06-28T07:55:57.178Z"
+    "time": "2018-07-09T07:55:57.178Z"
   },
   {
     "title": "RxJava",
@@ -71,11 +52,16 @@
       "Java",
       "Android"
     ],
-    "nav": {
-      "color": "0xffffff",
-      "show": false,
-      "tool": true
-    },
-    "time": "2018-06-28T07:55:57.178Z"
+    "time": "2018-07-05T07:55:57.178Z"
+  },
+  {
+    "title": "Laravel",
+    "des": "Laravel是一套简洁、优雅、为艺术家而写的PHP Web开发框架",
+    "img": "https://avatars3.githubusercontent.com/u/958072?s=200&v=4",
+    "url": "https://github.com/laravel/laravel",
+    "tag": [
+      "Php"
+    ],
+    "time": "2018-06-29T07:55:57.178Z"
   }
 ]

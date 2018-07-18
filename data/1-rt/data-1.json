@@ -2,11 +2,6 @@
   {
     "title": "用Flutter开发一个github APP",
     "des": "Gitme开发过程经验分享",
-    "style": {
-      "bold": true,
-      "color": "",
-      "height": 0.8
-    },
     "img": "https://flutterchina.club/images/gitme/180.png",
     "url": "https://www.jianshu.com/p/b29222d6ea3a",
     "tag": [
