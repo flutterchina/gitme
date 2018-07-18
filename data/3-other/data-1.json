@@ -7,6 +7,9 @@
     "tag": [
       "Flutter"
     ],
+    "style": {
+      "bold": false
+    },
     "nav": {
       "color": "0xffffff",
       "show": false,
@@ -18,7 +21,7 @@
     "title": "Wendux",
     "des": "Gitme开发团队核心成员",
     "style": {
-      "bold": false,
+      "bold": true,
       "color": "",
       "height": 0.8
     },

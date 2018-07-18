@@ -63,6 +63,7 @@
         "des": "一个强大的Flutter/Dart Http请求库，支持Restful API、FormData、拦截器、请求取消、Cookie管理、文件上传/下载、超时等...",
         "style": {
           "bold": true,
+          "color": "0x0366d6",
           "height": 0.8
         },
         "img": "https://avatars0.githubusercontent.com/u/38549573?s=200&v=4",
@@ -143,6 +144,9 @@
         "tag": [
           "Flutter"
         ],
+        "style": {
+          "bold": false
+        },
         "nav": {
           "color": "0xffffff",
           "show": false,
@@ -154,7 +158,7 @@
         "title": "Wendux",
         "des": "Gitme开发团队核心成员",
         "style": {
-          "bold": false,
+          "bold": true,
           "color": "",
           "height": 0.8
         },
