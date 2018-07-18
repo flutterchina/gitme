@@ -6,5 +6,9 @@
   {
     "title":"搜索语法",
     "url":"search_syntax.md"
+  },
+  {
+    "title":"更新日志",
+    "url":"change_log.md"
   }
 ]
