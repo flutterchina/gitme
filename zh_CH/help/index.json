@@ -10,5 +10,9 @@
   {
     "title":"更新日志",
     "url":"change_log.md"
+  },
+  {
+    "title":"常见问题",
+    "url":"faq.md"
   }
 ]

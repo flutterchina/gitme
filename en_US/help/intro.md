@@ -16,3 +16,5 @@ Gitme是一款程序员代码交流APP，它也是github的一个客户端。通
 1. Star、watch您感兴趣的项目。
 2. Follow 你关注的用户。
 3. 对issue、评论进行评论、回复、点赞等操作。
+
+[搜索语法](./search_syntax.md)

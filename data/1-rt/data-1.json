@@ -1,15 +1,17 @@
 [
   {
-    "title": "Flutter 中文网",
-    "des": "最好的flutter教程",
+    "title": "用Flutter开发一个github APP",
+    "des": "Gitme开发过程经验分享",
     "style": {
-      "bold": false,
+      "bold": true,
       "color": "",
       "height": 0.8
     },
-    "img": "https://cdn.flutterchina.club/images/flutter-mark-square-100.png",
-    "url": "https://flutterchina.club/",
+    "img": "https://flutterchina.club/images/gitme/180.png",
+    "url": "https://www.jianshu.com/p/b29222d6ea3a",
     "tag": [
+      "Gitme",
+      "Github客户端",
       "Flutter"
     ],
     "nav": {
@@ -17,11 +19,11 @@
       "show": false,
       "tool": true
     },
-    "time": "2018-06-28T07:55:57.178Z"
+    "time": "2018-07-18T11:20:40.580Z"
   },
   {
     "title": "Flutter 中文网",
-    "des": "最好的flutter教程",
+    "des": "最好的flutter中文教程",
     "style": {
       "bold": false,
       "color": "",

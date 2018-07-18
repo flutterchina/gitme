@@ -1,14 +1,9 @@
 [
   {
-    "title": "Flutter 中文网",
-    "des": "最好的flutter教程",
-    "style": {
-      "bold": false,
-      "color": "",
-      "height": 0.8
-    },
-    "img": "https://cdn.flutterchina.club/images/flutter-mark-square-100.png",
-    "url": "https://flutterchina.club/",
+    "title": "掘金Flutter社区",
+    "des": "掘金flutter文章汇总",
+    "img": "http://a4.att.hudong.com/37/22/20300543705914145258224073367_s.png",
+    "url": "https://juejin.im/tag/Flutter?utm_source=flutterchina&utm_medium=word&utm_content=btn&utm_campaign=q3_website",
     "tag": [
       "Flutter"
     ],
@@ -17,26 +12,26 @@
       "show": false,
       "tool": true
     },
-    "time": "2018-06-28T07:55:57.178Z"
+    "time": "2018-07-18T11:20:40.588Z"
   },
   {
-    "title": "Flutter 中文网",
-    "des": "最好的flutter教程",
+    "title": "Wendux",
+    "des": "Gitme开发团队核心成员",
     "style": {
       "bold": false,
       "color": "",
       "height": 0.8
     },
-    "img": "https://cdn.flutterchina.club/images/flutter-mark-square-100.png",
-    "url": "https://flutterchina.club/",
+    "img": "https://avatars2.githubusercontent.com/u/20411648?s=460&v=4",
+    "url": "https://github.com/wendux",
     "tag": [
-      "Flutter"
+      "Github人物"
     ],
     "nav": {
       "color": "0xffffff",
       "show": false,
       "tool": true
     },
-    "time": "2018-06-28T07:55:57.178Z"
+    "time": "2018-07-18T11:20:40.588Z"
   }
 ]
