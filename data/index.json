@@ -1,50 +1,29 @@
 [
   {
     "header": {
-      "title": "最新",
-      "dense": true,
-      "icon": "0xe80e",
+      "title": "邀请函",
+      "dense": false,
+      "icon": "0xe0be",
       "url": "/repos/wendux/gitme/contents/release/data/1-rt",
       "more": "更多",
-      "item_count": 2
+      "item_count": 1
     },
     "items": [
       {
-        "title": "用Flutter开发一个github APP",
-        "des": "Gitme开发过程经验分享",
-        "img": "https://flutterchina.club/images/gitme/180.png",
-        "url": "https://juejin.im/post/5b4fede0f265da0f6436c21a",
+        "title": "Gitme V1.1.0内测邀请",
+        "des": "** 组织在这里！每一位用户，都是gitme的主人！** ",
+        "img": "https://flutterchina.club/images/gitme/180bai.png",
+        "url": "https://github.com/wendux/gitme/issues/2",
         "tag": [
-          "Gitme",
-          "Github客户端",
-          "Flutter"
+          "Gitme"
         ],
+        "markdown": true,
         "nav": {
           "color": "0xffffff",
           "show": false,
           "tool": true
         },
-        "time": "2018-07-18T11:20:40.580Z"
-      },
-      {
-        "title": "Flutter 中文网",
-        "des": "最好的flutter中文教程",
-        "style": {
-          "bold": false,
-          "color": "",
-          "height": 0.8
-        },
-        "img": "https://cdn.flutterchina.club/images/flutter-mark-square-100.png",
-        "url": "https://flutterchina.club/",
-        "tag": [
-          "Flutter"
-        ],
-        "nav": {
-          "color": "0xffffff",
-          "show": false,
-          "tool": true
-        },
-        "time": "2018-06-28T07:55:57.178Z"
+        "time": "2018-07-23T10:47:58.860Z"
       }
     ]
   },
@@ -131,11 +110,49 @@
       "title": "其它资源",
       "dense": false,
       "icon": "0xe894",
+      "color": "0x4177F6",
       "url": "/repos/wendux/gitme/contents/release/data/3-other",
       "more": "更多",
-      "item_count": 2
+      "item_count": 4
     },
     "items": [
+      {
+        "title": "用Flutter开发一个github APP",
+        "des": "Gitme开发过程经验分享",
+        "img": "https://flutterchina.club/images/gitme/180.png",
+        "url": "https://juejin.im/post/5b4fede0f265da0f6436c21a",
+        "tag": [
+          "Gitme",
+          "Github客户端",
+          "Flutter"
+        ],
+        "nav": {
+          "color": "0xffffff",
+          "show": false,
+          "tool": true
+        },
+        "time": "2018-07-18T11:20:40.580Z"
+      },
+      {
+        "title": "Flutter 中文网",
+        "des": "最好的flutter中文教程",
+        "style": {
+          "bold": false,
+          "color": "",
+          "height": 0.8
+        },
+        "img": "https://cdn.flutterchina.club/images/flutter-mark-square-100.png",
+        "url": "https://flutterchina.club/",
+        "tag": [
+          "Flutter"
+        ],
+        "nav": {
+          "color": "0xffffff",
+          "show": false,
+          "tool": true
+        },
+        "time": "2018-06-28T07:55:57.178Z"
+      },
       {
         "title": "掘金Flutter社区",
         "des": "掘金flutter文章汇总",

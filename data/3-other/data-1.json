@@ -1,5 +1,42 @@
 [
   {
+    "title": "用Flutter开发一个github APP",
+    "des": "Gitme开发过程经验分享",
+    "img": "https://flutterchina.club/images/gitme/180.png",
+    "url": "https://juejin.im/post/5b4fede0f265da0f6436c21a",
+    "tag": [
+      "Gitme",
+      "Github客户端",
+      "Flutter"
+    ],
+    "nav": {
+      "color": "0xffffff",
+      "show": false,
+      "tool": true
+    },
+    "time": "2018-07-18T11:20:40.580Z"
+  },
+  {
+    "title": "Flutter 中文网",
+    "des": "最好的flutter中文教程",
+    "style": {
+      "bold": false,
+      "color": "",
+      "height": 0.8
+    },
+    "img": "https://cdn.flutterchina.club/images/flutter-mark-square-100.png",
+    "url": "https://flutterchina.club/",
+    "tag": [
+      "Flutter"
+    ],
+    "nav": {
+      "color": "0xffffff",
+      "show": false,
+      "tool": true
+    },
+    "time": "2018-06-28T07:55:57.178Z"
+  },
+  {
     "title": "掘金Flutter社区",
     "des": "掘金flutter文章汇总",
     "img": "http://a4.att.hudong.com/37/22/20300543705914145258224073367_s.png",
