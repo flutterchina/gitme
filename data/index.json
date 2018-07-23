@@ -4,20 +4,20 @@
       "title": "邀请函",
       "dense": false,
       "icon": "0xe0be",
-      "url": "/repos/wendux/gitme/contents/release/data/1-rt",
-      "more": "更多",
-      "item_count": 1
+      "color": "0x775dc7",
+      "item_count": 1,
+      "url": "/repos/wendux/gitme/contents/release/data/1-rt"
     },
     "items": [
       {
         "title": "Gitme V1.1.0内测邀请",
-        "des": "** 组织在这里！每一位用户，都是gitme的主人！** ",
+        "des": "** 组织在这里！每一位用户，都是gitme的主人！** \n 欢迎加入gitme大家庭！点击了解详情~",
         "img": "https://flutterchina.club/images/gitme/180bai.png",
         "url": "https://github.com/wendux/gitme/issues/2",
+        "markdown": true,
         "tag": [
           "Gitme"
         ],
-        "markdown": true,
         "nav": {
           "color": "0xffffff",
           "show": false,
