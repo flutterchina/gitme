@@ -10,7 +10,7 @@
     "items": [
       {
         "title": "Gitme V1.1.0更新列表",
-        "des": "每一位用户，都是gitme的主人!  \n\n感谢参加Gitme v1.1.0内测。",
+        "des": "每一位用户，都是gitme的主人!\n\n感谢参加Gitme v1.1.0内测。",
         "img": "https://flutterchina.club/images/gitme/180bai.png",
         "url": "https://github.com/wendux/gitme/issues/2",
         "markdown": true,
@@ -22,7 +22,7 @@
           "show": false,
           "tool": true
         },
-        "time": "2018-07-23T10:47:58.860Z"
+        "time": "2018-07-25T11:41:14.449Z"
       }
     ]
   },
