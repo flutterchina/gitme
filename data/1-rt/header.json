@@ -1,8 +1,7 @@
 {
-  "title": "邀请函",
+  "title": "组织在这里",
   "dense": false,
-  "icon": "0xe0be",
-  "color": "0x775dc7",
-  "item_count": 1,
-  "url": "/repos/wendux/gitme/contents/release/data/1-rt"
+  "icon": "0xe80e",
+  "color": "0xEF5350",
+  "item_count": 1
 }

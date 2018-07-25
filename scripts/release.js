@@ -51,6 +51,9 @@ function merge(path,e) {
     })
     if(!items.length) return null;
     header.item_count=items.length;
+    if(header.item_count<2){
+        delete  header.url;
+    }
     fs.writeFileSync(p.resolve(path,"header.json"), JSON.stringify(header,null,2));
     return {header, items}
 }
@@ -71,6 +74,9 @@ function split(path,ob) {
         fs.writeFileSync(p.resolve(path,"data-"+(i+1))+".json", JSON.stringify(ob.items.slice(i,i+len)));
         ++i;
     }while (len<ob.items.length)
+    if(ob.items.length<2){
+        delete  ob.header.url;
+    }
     fs.writeFileSync(p.resolve(path,"header.json"), JSON.stringify(ob.header));
 
 }
