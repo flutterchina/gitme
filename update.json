@@ -1,8 +1,8 @@
 {
   "android":{
-    "version":"0.1.0",
-    "url":"",
-    "storeUrl":"",
+    "version":"1.1.0",
+    "url":"http://download.flutterchina.club/gitme.1.1.0.b1.apk",
+    "storeUrl":"http://download.flutterchina.club/gitme.1.1.0.b1.apk",
     "force":false
   },
   "ios":{
@@ -10,5 +10,5 @@
     "url":"itms-apps://itunes.apple.com/app/id477927812",
     "force":false
   },
-  "description":"更新了一些bug"
+  "description":"1.支持缓存\n2.支持markdown内嵌html解析\n3.支持two-factor登录\n4.添加代码行号\n5.优化了代码染色\n还有更多功能等你发现..."
 }
