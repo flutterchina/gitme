@@ -9,10 +9,10 @@
     },
     "items": [
       {
-        "title": "Gitme V1.1.0更新列表",
-        "des": "每一位用户，都是gitme的主人!\n\n感谢参加Gitme v1.1.0内测。",
+        "title": "欢迎使用Gitme v1.1.0!",
+        "des": "每一位用户，都是gitme的主人!",
         "img": "https://flutterchina.club/images/gitme/180bai.png",
-        "url": "https://github.com/wendux/gitme/issues/2",
+        "url": "flutterchina/gitme/blob/1.1.0/notification.md",
         "markdown": true,
         "tag": [
           "Gitme"
@@ -22,7 +22,7 @@
           "show": false,
           "tool": true
         },
-        "time": "2018-07-25T11:41:14.449Z"
+        "time": "2018-07-30T09:24:40.967Z"
       }
     ]
   },
