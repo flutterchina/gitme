@@ -7,7 +7,7 @@
   },
   "ios":{
     "version":"1.1.0",
-    "url":"itms-apps://itunes.apple.com/app/id477927812",
+    "url":"itms-apps://itunes.apple.com/app/id1411822165",
     "force":false
   },
   "description":"1.支持缓存\n2.支持markdown内嵌html解析\n3.支持two-factor登录\n4.添加代码行号\n5.优化了代码染色\n还有更多功能等你发现..."
