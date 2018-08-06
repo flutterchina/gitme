@@ -31,14 +31,14 @@
       "title": "推荐项目",
       "dense": false,
       "icon": "0xe865",
-      "url": "/repos/wendux/gitme/contents/release/data/2-repo",
+      "url": "/repos/flutterchina/gitme/contents/release/data/2-repo",
       "more": "更多",
       "item_count": 8
     },
     "items": [
       {
         "title": "fly",
-        "des": "一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库。可以让您在多个端上尽可能大限度的实现代码复用。",
+        "des": "一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库!",
         "style": {
           "bold": true,
           "height": 0.8
@@ -53,7 +53,7 @@
       },
       {
         "title": "Ajax-hook",
-        "des": "一个精妙的拦截浏览器全局ajax请求的JavaScript库，源码不到70行！",
+        "des": "一个精妙的ajax请求拦截库，源码不到70行！前端高手看过来~",
         "style": {
           "bold": true,
           "height": 0.8
@@ -86,7 +86,6 @@
         "des": "一个强大的Flutter/Dart Http请求库，支持Restful API、FormData、拦截器、请求取消、Cookie管理、文件上传/下载、超时等...",
         "style": {
           "bold": true,
-          "color": "0x0366d6",
           "height": 0.8
         },
         "img": "https://avatars0.githubusercontent.com/u/38549573?s=200&v=4",
@@ -117,7 +116,7 @@
       "dense": false,
       "icon": "0xe894",
       "color": "0x4177F6",
-      "url": "/repos/wendux/gitme/contents/release/data/3-other",
+      "url": "/repos/flutterchina/gitme/contents/release/data/3-other",
       "more": "更多",
       "item_count": 4
     },

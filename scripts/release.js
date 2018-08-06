@@ -39,7 +39,7 @@ function merge(path,e) {
     var header = files.pop();
     if (header !== "header.json") return null;
     var header = require(p.resolve(path, header))
-    header.url="/repos/wendux/gitme/contents/release/data/"+e;
+    header.url="/repos/flutterchina/gitme/contents/release/data/"+e;
     var items = [];
     files.forEach(e => {
         //log(require(p.resolve(path,e)));
