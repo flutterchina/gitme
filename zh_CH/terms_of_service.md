@@ -1,6 +1,6 @@
 ## Gitme服务协议
 
-Gitme为[Flutter中文网(https://flutterchina.club)](https://flutterchina.club)开发的一款程序员源码交流软件，同时也是Github上的一个客户端，您可以轻松、方便的使用本软件随时随地访问Github上的资源，和全世界开发者分享您的代码。
+Gitme为[Flutter中文网](https://flutterchina.club)(https://flutterchina.club) 开发的一款程序员源码交流软件，同时也是Github上的一个客户端，您可以轻松、方便的使用本软件随时随地访问Github上的资源，和全世界开发者分享您的代码。
 
 ### 用户账号
 
@@ -9,6 +9,10 @@ Gitme（以下简称“本软件”）目前只支持github账号登陆，如果
 ### 隐私协议
 
 在本软件登陆github账号时，为方便下次登陆，您的账号会在**本地**保存，Gitme在任何时候都不会以任何理由上传您的私人密码、token。本软件通过Github OAuth授权协议来获取用户基本信息，包括头像、昵称、电子邮件、公司、个人简介等信息。
+
+本软件也支持Github双重认证(two-factor)，如果您担心账号泄露，可以登录Github官网，开启双重认证(two-factor)，开启后，每次登录都需要输入您的6位随机验证码。
+
+> 开启双重认证(two-factor)后，本软件将在一个权限受限的token下运行，这可能导致有些功能无法正常工作(权限受限)，具体会表现为，您“组织”下的项目无法在首页查看等。
 
 ### 禁止性行为
 

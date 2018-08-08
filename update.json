@@ -1,8 +1,9 @@
 {
   "android":{
     "version":"1.1.1",
-    "url":"http://download.flutterchina.club/gitme.1.1.1.apk",
-    "storeUrl":"http://download.flutterchina.club/gitme.1.1.1.apk",
+    "url":"http://download.flutterchina.club/gitme.1.1.1.fix1.apk",
+    "storeUrl":"http://download.flutterchina.club/gitme.1.1.1.fix1.apk",
+    "fix":1,
     "force":false
   },
   "ios":{
@@ -10,5 +11,5 @@
     "url":"itms-apps://itunes.apple.com/app/id1411822165",
     "force":false
   },
-  "description":"1. 性能优化，优化了首页Tab切换性能。\n2. 动态里的事件类型支持PR评论事件。\n3. Markdown文档页添加查看源码菜单。\n4. 修复了一些bug."
+  "description":"1. 性能优化，优化了首页Tab切换性能。\n2. 动态里的事件类型支持PR评论事件。\n3. Markdown文档页添加查看源码菜单。\n4. 支持Trending。\n5. 修复了一些bug."
 }
