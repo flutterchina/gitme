@@ -1,7 +1,8 @@
 {
-  "title": "Gitme更新了！",
+  "title": "最新",
   "dense": false,
   "icon": "0xe80e",
   "color": "0xEF5350",
-  "item_count": 1
+  "item_count": 2,
+  "url": "/repos/flutterchina/gitme/contents/release/data/1-rt"
 }

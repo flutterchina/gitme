@@ -1,15 +1,32 @@
 [
   {
     "header": {
-      "title": "Gitme更新了！",
+      "title": "最新",
       "dense": false,
       "icon": "0xe80e",
       "color": "0xEF5350",
-      "item_count": 1
+      "item_count": 2,
+      "url": "/repos/flutterchina/gitme/contents/release/data/1-rt"
     },
     "items": [
       {
-        "title": "欢迎使用v1.1.1",
+        "title": "Gitme开源计划",
+        "des": "Star破2K就开源~",
+        "img": "http://img.aso.aizhan.com/icon/c4/e7/7e/c4e77e93374517bbe9198908fae5f7d8.jpg",
+        "url": "https://github.com/flutterchina/gitme",
+        "markdown": true,
+        "tag": [
+          "Gitme"
+        ],
+        "nav": {
+          "color": "0xffffff",
+          "show": false,
+          "tool": true
+        },
+        "time": "2018-11-13T08:48:19.043Z"
+      },
+      {
+        "title": "欢迎使用Gitme v1.1.1",
         "des": "每一位用户，都是gitme的主人!",
         "img": "https://flutterchina.club/images/gitme/180bai.png",
         "url": "https://github.com/flutterchina/gitme/blob/1.1.1/notification.md",
@@ -33,9 +50,24 @@
       "icon": "0xe865",
       "url": "/repos/flutterchina/gitme/contents/release/data/2-repo",
       "more": "更多",
-      "item_count": 8
+      "item_count": 9
     },
     "items": [
+      {
+        "title": "flukit",
+        "des": "A Flutter UI Kit",
+        "style": {
+          "bold": true,
+          "height": 0.8
+        },
+        "img": "https://avatars0.githubusercontent.com/u/38549573?s=200&v=4",
+        "url": "https://github.com/flutterchina/flukit",
+        "tag": [
+          "Flutter",
+          "Dart"
+        ],
+        "time": "2018-11-13T08:53:09.816Z"
+      },
       {
         "title": "fly",
         "des": "一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库!",
@@ -107,6 +139,18 @@
           "JavaScript"
         ],
         "time": "2018-06-28T07:55:57.178Z"
+      },
+      {
+        "title": "Flutter",
+        "des": "Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。",
+        "img": "https://avatars0.githubusercontent.com/u/38549573?s=200&v=4",
+        "url": "https://github.com/flutter/flutter",
+        "tag": [
+          "Android",
+          "IOS",
+          "Dart"
+        ],
+        "time": "2018-07-09T07:55:57.178Z"
       }
     ]
   },
